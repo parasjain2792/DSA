@@ -1,5 +1,4 @@
 O(N^3)
-
 Qs-You are given an integer array prices where prices[i] is the price of a given stock on the ith day, and an integer k.
 
 Find the maximum profit you can achieve. You may complete at most k transactions.
@@ -74,3 +73,4 @@ O(N^2)
         }
        return cost[k][n-1]; 
     }
+Explanation: Comment:https://leetcode.com/parasanandjain/
