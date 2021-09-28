@@ -1,3 +1,4 @@
+//Nqueens:https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1
 #include<bits/stdc++.h>
 using namespace std;
 void printNqueens(int n,int queens[10][10]){
