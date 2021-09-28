@@ -42,7 +42,7 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         
         
     }
-So lets understand what the question is :
+/*So lets understand what the question is :
 We need to get the median of the both the sorted array now the basic logic behind our intution is that we need to divide my both arrays into two parts such that sum of both the left part makes the half of the arrays and sum of right parts makes the other half of the arrays .
 now my partititions are in the form of cut1 and cut 2
 cut1+cut2=(n1+n2+1)/2
@@ -53,4 +53,4 @@ now same logic for the second condition trick being if i have to reduce cut2 her
 now tricks:
 statement 1 is there to always ensure that arr1 size<arr2size
 statement 2,3,4,5:to see corner cases if i dont take any elements INT_MIN
-i take all INT_MAX
+i take all INT_MAX*/
