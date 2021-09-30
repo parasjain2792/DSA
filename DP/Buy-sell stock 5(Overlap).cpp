@@ -1,5 +1,6 @@
-Qs:BBS possible 
+/*Qs:BBS possible 
 link:https://www.hackerrank.com/challenges/stockmax/submissions/code/234615157
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
