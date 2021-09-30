@@ -1,5 +1,5 @@
-Qs you can do any number of transactions but you should hold atmost 1 stock
-(peak-valley approach)O(N)
+// Qs you can do any number of transactions but you should hold atmost 1 stock
+// (peak-valley approach)O(N)
 
  int maxProfit(vector<int>& prices) {
         
