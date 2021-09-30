@@ -1,5 +1,7 @@
-At most  2 transactions:
-2 traversals:
+// At most  2 transactions:
+// 2 traversals:
+int buysell(vector<int> arr){
+{
  int n=arr.size();
         if(n<=1){
             return 0;
@@ -23,8 +25,9 @@ At most  2 transactions:
         
         
          return ans;'
-         
-  1 traversal:
+}  
+//   1 traversal:
+          int buysell(vector<int> arr){
    int n=arr.size();
         if(n<=1){
             return 0;
@@ -49,4 +52,4 @@ At most  2 transactions:
         
          return ans;
          
-         
+}      
