@@ -1,5 +1,5 @@
-Q-You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. 
-Note that we have only one quantity of each item.
+// Q-You are given weights and values of N items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack. 
+// Note that we have only one quantity of each item.
 int knapSack(int W, int wt[], int val[], int N) 
     { 
        // Your code here
