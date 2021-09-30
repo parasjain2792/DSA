@@ -1,5 +1,6 @@
-Qs-1 transaction allowed peak approach      
-       
+//Qs-1 transaction allowed peak approach      
+int profit(vector<int> &arr)
+{ 
        int n=arr.size(); 
         int profit=0;
         int peak=arr[n-1];
@@ -15,7 +16,9 @@ Qs-1 transaction allowed peak approach
         
      }
      
-     Another approach but here i am finding the valley i.e,minimum value
+//      Another approach but here i am finding the valley i.e,minimum value
+int profit(vector<int> &prices)
+{
       int profit=0;
         int start=prices[0];
         for(auto price : prices){
@@ -35,3 +38,4 @@ Qs-1 transaction allowed peak approach
         
         return (profit>0?profit:0);
      
+}
