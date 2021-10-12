@@ -1,4 +1,5 @@
 //link https://www.codingninjas.com/codestudio/problems/good-arrays_1404723
+
 int goodArrays(vector<int> &a, int n) {
 	// Write your code here.
     int leftOsum=0;
