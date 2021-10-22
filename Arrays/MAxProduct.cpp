@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n=nums.size();
